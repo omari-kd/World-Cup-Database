@@ -313,3 +313,7 @@ clear
 ./queries.sh
 ./queries.sh
 ./queries.sh
+git remote set-url origin https://github.com/omari-kd/World-Cup-Database.git
+git branch -M main
+git push -u origin main
+git push -U origin main
